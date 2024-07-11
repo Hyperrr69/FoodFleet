@@ -22,10 +22,7 @@
 - First of all, you will need to create a database with Atlas MongoDB.
 - Also have a Stripe account so you can get your SECRET STRIPE KEY.
 
-<h2>🎥 Video - https://www.youtube.com/watch?v=DBMPXJJfQEA</h2>
 
-- How to create a database with MongoDB - 3:38:27.
-- Stripe Tutorial - 7:49:55.
 
 
 # Installation
