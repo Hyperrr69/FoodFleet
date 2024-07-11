@@ -9,18 +9,12 @@
     <img alt="Language" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
     <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
-    <img alt="Language" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
-  </p>
+   
 
 
 ![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/tomato.png)
 
 
-# Getting Started
-
-- First of all, you will need to create a database with Atlas MongoDB.
-- Also have a Stripe account so you can get your SECRET STRIPE KEY.
 
 
 
